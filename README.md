@@ -1,16 +1,16 @@
-# Scale institutional knowledge using Copilot Spaces
+# OctoAcme Project Management Docs
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+OctoAcme adopts a structured project management lifecycle that ensures both clarity and adaptability. Projects move through clear stages: Initiation, Planning, Execution, Release, and Continuous Improvement. Each stage is supported by artifacts like a project charter, risk register, backlog, and retrospective notes. Key roles such as Project Manager, Product Manager, Developers, and QA ensure responsibilities are distributed, while regular communication—through standups, syncs, and stakeholder updates—keeps everyone aligned.
 
-Hey leokotman!
+Execution focuses on iterative delivery, actionable documentation, and transparent risk management. Critical workflows include using project boards, defined pull request practices, and consistent release/deployment playbooks. Quality assurance is maintained through frequent testing, code reviews, CI/CD pipelines, and clear definitions of "done." The process is underpinned by continuous improvement practices, with retrospectives and action item tracking ensuring lessons are turned into future enhancements.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+## Process Documents
 
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/leokotman/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+- [Project Management Overview](octoacme-project-management-overview.md)
+- [Project Initiation Guide](octoacme-project-initiation.md)
+- [Project Planning](octoacme-project-planning.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Roles and Personas](octoacme-roles-and-personas.md)
